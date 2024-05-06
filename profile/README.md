@@ -2,50 +2,20 @@
 
 <!-- <img align='right' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU4a2JlMGFneHFmZXgxd2hudWltOHFtOHZwdDAzMTd4cDF3cXR5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="230" /> -->
 
-<!-- <img align='right' width="100%" src="https://i.pinimg.com/originals/17/90/1d/17901df15c00dd4a35f8d2c976554f14.gif" width="230" /> -->
+<img align='right' width="100%" src="https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif" />
 
-<!-- <img align='right' width="100%" src="https://i.pinimg.com/originals/26/02/be/2602bed9bee3c34ffc4d4d173b3c6071.gif" /> -->
-
-<!-- <img align='right' width="100%" src="https://i.pinimg.com/originals/26/02/be/2602bed9bee3c34ffc4d4d173b3c6071.gif" /> -->
-
-<!-- <img align='right' width="100%" src="https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif" /> -->
+<!-- <img align='right' width="100%" src="https://64.media.tumblr.com/23b686d061f5548c74220a3f92e98e30/tumblr_p6dfzwLY3E1r4gsiio2_640.gifv" /> -->
 
 <!-- <img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNxYWlxNTcxNm4yaDYxdHAxeHg1dWMwNmk4enNsMTh0a2MxMHV3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="230" /> -->
 
-<!-- <img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlrdG5xcHFhNXh6eGp1eDU5MWhmdmJoeDdmeXBnaXB6azRnYXNreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2XB76CaWPggiNW/giphy.gif" width="230" /> -->
-<!--
-<img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtycGZ4dDM0M3p3Z2N3N2RicndmanB6Z3pqa3Jmc3hpY29hZ2Z2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY9kuM2NGUfvThe/giphy.gif" width="230" /> -->
-
-<img align='right' width="100%" src="https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" />
-<!-- Profile views -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sayancyan&label=Profile%20views&color=0e75b6&style=flat" alt="sayancyan" /> </p>
-
-<h1 align="center">Hi 👋, I'm Sayan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<!-- left up img
-<img align='right' width="40%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRlbnB1cWRjN253NTZocGR1NnJqaGplM2w5a28yNWpodWd5ZzA1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxSveBdhdtLgagcKdR/giphy.gif" width="230" /> -->
-
-<!-- left down img -->
-<!-- <img align='right' width="50%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmh2MDl2bDVldmhpbnRqZjA0YjYzaTV1MzM5dGRobG1xeXNrZmtnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSKHkpRJySs5W81D7B/giphy.gif" width="230" /> -->
+<h1 align="center">Hiji-Biji</h1>
+<h3 align="center">Chaos resides within</h3>
 
 <!-- Bio -->
 <!-- <ul>
 <li>🔭 I’m currently working on <a href="">This</a>.</li>
 <li>🧐 Learning about <strong>MERN</strong>, <strong>DOCKER</strong>, and a bit of <strong>ML</strong>.</li>
 </ul> -->
-
----
-
-<!-- Stats -->
-
-<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayancyan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=sayancyan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"/>
-</br>
-
-<!-- Streak -->
-<p align="center">
-<img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayancyan&theme=midnight-purple&hide_border=true"/>
-</p>
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
@@ -63,7 +33,7 @@
 
 ---
 
-### 💰You can help me by Donating
+### 💰You can help us by Donating
 
 <a href="https://buymeacoffee.com/sayancyan" target="blank"><img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="sayancyan" /></a>
 
