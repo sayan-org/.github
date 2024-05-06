@@ -17,53 +17,30 @@
 <img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtycGZ4dDM0M3p3Z2N3N2RicndmanB6Z3pqa3Jmc3hpY29hZ2Z2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY9kuM2NGUfvThe/giphy.gif" width="230" /> -->
 
 <img align='right' width="100%" src="https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" />
-<!-- Profile views -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sayancyan&label=Profile%20views&color=0e75b6&style=flat" alt="sayancyan" /> </p>
 
-<h1 align="center">Hi 👋, I'm Sayan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<!-- left up img
-<img align='right' width="40%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRlbnB1cWRjN253NTZocGR1NnJqaGplM2w5a28yNWpodWd5ZzA1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxSveBdhdtLgagcKdR/giphy.gif" width="230" /> -->
-
-<!-- left down img -->
-<!-- <img align='right' width="50%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmh2MDl2bDVldmhpbnRqZjA0YjYzaTV1MzM5dGRobG1xeXNrZmtnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSKHkpRJySs5W81D7B/giphy.gif" width="230" /> -->
-
-<!-- Bio -->
-<!-- <ul>
-<li>🔭 I’m currently working on <a href="">This</a>.</li>
-<li>🧐 Learning about <strong>MERN</strong>, <strong>DOCKER</strong>, and a bit of <strong>ML</strong>.</li>
-</ul> -->
+<h1 align="center">Hiji-Biji</h1>
+<h3 align="center">A safe coding space for hiji-biji group</h3>
 
 ---
 
-<!-- Stats -->
+<!-- Bio -->
+<ul>
+<li> 🚀We are currently working on ✨<a href="">this</a>✨</li>
+<li>💡 Learning about <strong>MERN</strong>, <strong>DOCKER</strong>, and a bit of <strong>ML</strong>.</li>
+</ul>
 
-<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayancyan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=sayancyan&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"/>
-</br>
-
-<!-- Streak -->
-<p align="center">
-<img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayancyan&theme=midnight-purple&hide_border=true"/>
-</p>
+---
 
 <!-- Contact -->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤙Connect with us:</h3>
 <p align="left">
 <a href="mailto:xonomorph@gmail.com" target="blank"><img align="center" src="/images/gmail.svg" alt="sayancyan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sayancyan" target="blank"><img align="center" src="/images/linkedIn.svg" alt="sayancyan" height="30" width="40" /></a>
 </p>
 
-<!-- ---
-
-### GitHub trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayancyan" alt="sayancyan" /></a> </p>
-<h3 align="left"> -->
-
 ---
 
-### 💰You can help me by Donating
+### 💰You can help us by Donating
 
 <a href="https://buymeacoffee.com/sayancyan" target="blank"><img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="sayancyan" /></a>
 
