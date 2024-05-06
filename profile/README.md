@@ -2,9 +2,9 @@
 
 <!-- <img align='right' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU4a2JlMGFneHFmZXgxd2hudWltOHFtOHZwdDAzMTd4cDF3cXR5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="230" /> -->
 
-<img align='right' width="100%" src="https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif" alt="sayancyan"/>
+<!-- <img align='right' width="100%" src="https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif" alt="sayancyan"/> -->
 
-<!-- <img align='right' width="100%" src="https://64.media.tumblr.com/23b686d061f5548c74220a3f92e98e30/tumblr_p6dfzwLY3E1r4gsiio2_640.gifv" /> -->
+<img align='right' width="100%" src="https://64.media.tumblr.com/23b686d061f5548c74220a3f92e98e30/tumblr_p6dfzwLY3E1r4gsiio2_640.gifv" />
 
 <!-- <img align='center' width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNxYWlxNTcxNm4yaDYxdHAxeHg1dWMwNmk4enNsMTh0a2MxMHV3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="230" /> -->
 
